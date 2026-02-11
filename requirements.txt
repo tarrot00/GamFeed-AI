@@ -1,0 +1,10 @@
+streamlit
+feedparser
+requests
+beautifulsoup4
+pandas
+PyGithub
+google-generativeai
+python-dotenv
+openpyxl
+lxml
